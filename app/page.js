@@ -1052,12 +1052,13 @@ const page = () => {
                         <img   src="/Projects/React/Furniture React App.png"  style={{
                         width: "100%",
                         height: "100%",
-                        objectFit:"cover"
+                        objectFit:"cover" 
+
                       }} />
                     </div>
 
                     <h2 className="  mt-2  text-center fw-bold">
-                      {" "}
+                    
                       Furniture E-commerce UI
                     </h2>
 
